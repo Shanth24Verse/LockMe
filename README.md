@@ -4,7 +4,7 @@ Project: DataLog
 Developer Details : Shantha Kumar
 Core Langauage : JAVA 
 IDE:  Eclipse IDE
-GitHub: 
+GitHub: https://github.com/Shanth24Verse/LockMe
 Sprints planned: 1 Week
 Tasks achieved: 5 (All Backlogs)
 Core concepts: 
@@ -27,12 +27,12 @@ A simple file handling project in Java
 ## Using the application
 Welcome screen displays the application name and the developer details.
 
-<img width="700" alt="java 8 and prio java 8  array review example" src="https://github.com/abhinov-gogoi/AbhinovGogoi_Phase1_VirendraSharma/blob/optimisation/src/images/screenshot1.png">
+
 
 The details of the user interface are shown to the user. The user has to select from the options listed 
 
  
-    1. The first option returns the current file names in ascending order. The main directory can be assigned in LockedMe class.
+    1. The first option returns the current file names in ascending order. 
   
 
     2. The second option returns the details of the user interface options displaying the following:
